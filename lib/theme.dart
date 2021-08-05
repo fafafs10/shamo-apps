@@ -10,9 +10,11 @@ Color blueColor = Color(0xff2C96F1);
 Color blackColor = Color(0xff1F1D2B);
 Color black2Color = Color(0xff2B2937);
 Color black3Color = Color(0xff242231);
+Color black4Color = Color(0xff252836);
 Color whiteColor = Color(0xffE1E1E1);
 Color greyColor = Color(0xff999999);
 Color darkGreyColor = Color(0xff504F5E);
+Color lightGreyColor = Color(0xff808191);
 
 TextStyle whiteTextStyle = GoogleFonts.poppins(color: whiteColor);
 TextStyle greyTextStyle = GoogleFonts.poppins(color: greyColor);

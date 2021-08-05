@@ -206,7 +206,9 @@ class SignUp extends StatelessWidget {
         width: double.infinity,
         margin: EdgeInsets.only(top: 30),
         child: TextButton(
-          onPressed: () {},
+          onPressed: () {
+            Navigator.pushNamed(context, '/main-page');
+          },
           style: TextButton.styleFrom(
               backgroundColor: purpleColor,
               shape: RoundedRectangleBorder(
