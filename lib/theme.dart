@@ -12,6 +12,7 @@ Color black2Color = Color(0xff2B2937);
 Color black3Color = Color(0xff242231);
 Color black4Color = Color(0xff252836);
 Color black5Color = Color(0xff2E2E2E);
+Color black6Color = Color(0xff2B2844);
 Color whiteColor = Color(0xffE1E1E1);
 Color white2Color = Color(0xffECEDEF);
 Color greyColor = Color(0xff999999);
@@ -26,6 +27,7 @@ TextStyle blueTextStyle = GoogleFonts.poppins(color: blueColor);
 TextStyle darkGreyTextStyle = GoogleFonts.poppins(color: darkGreyColor);
 TextStyle purpleTextStyle = GoogleFonts.poppins(color: purpleColor);
 TextStyle blackTextStyle = GoogleFonts.poppins(color: black5Color);
+TextStyle black2TextStyle = GoogleFonts.poppins(color: black6Color);
 
 FontWeight light = FontWeight.w300;
 FontWeight regular = FontWeight.w400;
